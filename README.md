@@ -45,3 +45,6 @@ git push -u origin main
 ## Important
 
 The LinkedIn item is displayed as text because the resume only provides the word “LinkedIn” and does not contain the actual LinkedIn URL. Replace it with the real profile URL only if you have that information.
+
+
+editing this file
