@@ -41,10 +41,3 @@ git push -u origin main
 7. For this static site, leave the framework/build settings at their defaults if Vercel detects no framework.
 8. Click **Deploy**.
 9. Vercel will provide a `.vercel.app` URL.
-
-## Important
-
-The LinkedIn item is displayed as text because the resume only provides the word “LinkedIn” and does not contain the actual LinkedIn URL. Replace it with the real profile URL only if you have that information.
-
-
-editing this file
